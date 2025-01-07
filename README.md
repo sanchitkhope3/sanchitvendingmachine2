@@ -8,3 +8,6 @@ by Sanchit Khope
 
 # Circuit Diagram
 ![FINAL MIDTERN REAL WORLD PROJECT](https://github.com/user-attachments/assets/09c4a6b2-43b6-485f-8743-859ebcb2149a)
+
+# Back Wiring
+![1736260442650 (1)](https://github.com/user-attachments/assets/f8e6aa3e-175a-4fab-9e99-13184f32aca6)
