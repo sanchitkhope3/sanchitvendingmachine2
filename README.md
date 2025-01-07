@@ -12,9 +12,6 @@ by Sanchit Khope
 ## Outputs
 ### My output for this project is the 3 servo motors, connected to metal wires, which spin clockwise to make the product drop.
 
-# Logic Diagram
-![LOGICLY LOGIC DIAGRAM (1)](https://github.com/user-attachments/assets/67720ebe-4330-437e-abb7-e1b2a95959c3)
-
 # Circuit Diagram
 ![FINAL MIDTERN REAL WORLD PROJECT](https://github.com/user-attachments/assets/09c4a6b2-43b6-485f-8743-859ebcb2149a)
 
